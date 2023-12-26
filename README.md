@@ -1,6 +1,6 @@
 ## Hello👋 I'm Khushboo 👩🏻‍💻
 
-I am a UI developer from India 🇮🇳 I am working as a Senior software Engineer at Synechron
+I am a UI developer from India 🇮🇳 I am working as a Senior software Engineer at [Synechron](https://www.synechron.com/).
 
 ### Currently I am working with ...
 
