@@ -31,12 +31,6 @@ I am a UI developer from India 🇮🇳 I am working as a Senior software Engine
 <a href="mailto:optimistkhushboo@gmail.com" target="_blank" title="optimistkhushboo@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
 
 
-# 
-
-<!-- <a href="https://www.buymeacoffee.com/vershwal" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 154px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> -->
-<a href="https://www.buymeacoffee.com/khushboovijayvargiya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 157px !important;" ></a>
-
-
 
 <!--
 **vijayvargiyakhushboo/vijayvargiyakhushboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
