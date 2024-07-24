@@ -28,7 +28,7 @@ I am a UI developer from India 🇮🇳 I am working as a Senior software Engine
 ### You can also find me on ...
 
 
-<a href="mailto:optimistkhushboo@gmail.com" target="_blank" title="optimistkhushboo@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
+<a href="mailto:khushboovjvrg018@gmail.com" target="_blank" title="khushboovjvrg018@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
 
 
 
